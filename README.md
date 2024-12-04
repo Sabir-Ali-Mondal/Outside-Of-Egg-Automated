@@ -30,6 +30,8 @@ Welcome to **Outside of Egg** – a super fun and creative website where kids (a
 
 4. **Virtual Teacher Reads Aloud:** After you answer, your cute anime teacher will read your response out loud in a fun, engaging voice. It's like having your own personal guide! 📚🎙️
 
+
+## Developing till now
 5. **Get Rewarded:** Your creative answers get sweet praise like, "What a fantastic idea!" Keep it up, and you’ll unlock even more fun challenges and rewards! 🏅💖
 
 6. **Age-Smart Questions:** Whether you’re a little kid or an adult, the questions adjust to your age so you always get the perfect challenge! 🧑‍🦱👶
