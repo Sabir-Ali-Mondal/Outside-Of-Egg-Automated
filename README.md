@@ -9,26 +9,19 @@ Welcome to **Outside of Egg** – a super fun and creative website where kids (a
 ---
 
 ## 🌸 Features 🌸  
-- **Friendly Chat Buddy:** Talk to our website like you're chatting with a friend! Ask fun, open-ended questions to let your creativity flow. 🗣️💭
 - **Creative Topic Questions:** Get thoughtful and cool questions about everyday things like "bottles," "trees," and "beds." It’s like turning the world into a big, creative playground! 🍃🍶🛏️
 - **AI Magic:** You can ask clever tools like Perplexity AI or ChatGPT for extra insights and continue chatting with the website for even more fun! 🤖✨
 - **Anime-Style Teacher:** Meet your virtual teacher! They read your answers out loud with a cheerful, anime-inspired voice, making learning feel like a fun adventure! 🎤👩‍🏫
-- **Encouragement & Rewards:** Earn compliments like "Awesome!" and "Great job!" for every creative idea you share. You’ve got this! 🌟🎉
 - **Age-Smart Learning:** Choose your age to get questions just right for you—easy for kids, or more challenging for adults! 🧒👵
 - **Gamified Fun:** Collect points or shiny badges for your cool ideas and creative thinking. Who knew learning could be so fun? 🏆💎
-
 ---
 
 ## 🐤 How It Works 🐤  
-1. **Start with a Chat:** When you open the website, you’re greeted by a fun conversation that asks you simple, imaginative questions. 🗨️✨  
-   *Example: “What do you think a tree would say if it could talk?”*  
+1. **Start with a Chat:** *Example: “What do you think a tree would say if it could talk?”*  
    
-2. **Creative Exploration:** After chatting, you'll get interesting questions about everyday objects, like bottles, trees, and beds. Time to let your imagination soar! 🚀🍃  
+2. **Creative Exploration:** You'll get interesting questions about everyday objects, like bottles, trees, and beds. Time to let your imagination soar! 🚀🍃  
    *Example: “How do you think a bottle is made?”*  
-
-3. **Ask AI for More:** Copy any cool question and ask awesome AI tools like Perplexity AI or ChatGPT for even more answers. Share the responses with the website to keep the chat going! 🤖📝
-
-4. **Virtual Teacher Reads Aloud:** After you answer, your cute anime teacher will read your response out loud in a fun, engaging voice. It's like having your own personal guide! 📚🎙️
+3. **Virtual Teacher Reads Aloud:** After you answer, your cute anime teacher will read your response out loud in a fun, engaging voice. It's like having your own personal guide! 📚🎙️
 
 
 ## Developing till now
@@ -56,7 +49,7 @@ Here’s the specific section you requested:
 ---
 
 💼 **Developed by Team: With_Mindset** 💼
-<img src="https://res.cloudinary.com/dmttn34te/image/upload/v1733070758/logo_ktr3sq.jpg" width="200" height="200" />
+<img src="https://res.cloudinary.com/dmttn34te/image/upload/v1733070758/logo_ktr3sq.jpg" width="20" height="20" style="border-radius:10px;" />
 
 ------------------------------------------
 
